@@ -56,12 +56,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstifanosKelemu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2D9CDB&icon_color=2D9CDB&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EstifanosKelemu&hide_border=true&background=0d1117&stroke=2D9CDB&ring=2D9CDB&fire=2D9CDB&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2D9CDB&sideLabels=c9d1d9&dates=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Estif4&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2D9CDB&icon_color=2D9CDB&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Estif4&hide_border=true&background=0d1117&stroke=2D9CDB&ring=2D9CDB&fire=2D9CDB&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2D9CDB&sideLabels=c9d1d9&dates=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstifanosKelemu&layout=compact&hide_border=true&bg_color=0d1117&title_color=2D9CDB&text_color=c9d1d9" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estif4&layout=compact&hide_border=true&bg_color=0d1117&title_color=2D9CDB&text_color=c9d1d9" width="45%" />
 </p>
 
 ---
